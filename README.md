@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AleksMa
 - 🧑‍💻 I’m interested in C++, Go, and Python programming languages; microservices and data pipelines designing
 - 🌱 I’m currently learning in Machine Learning and Data Engineering
 - 💞️ I’m looking to collaborate on some NLP or CV projects, highload services
